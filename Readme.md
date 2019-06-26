@@ -14,7 +14,7 @@
 
 ![](https://github.com/qiuyubude/CoreSnippet/blob/master/Image/image2.png?raw=true)
 
-其中Title：标题。
+Title：标题。
 
 Summary：描述文字。
 
@@ -37,9 +37,10 @@ Completion Scopes：作用范围，一般写在正确的位置拖动即可，Xco
 ![](https://github.com/qiuyubude/CoreSnippet/blob/master/Image/image4.png?raw=true)
 
 ## 4、如何导出
-
-1. 自定义的代码块保存在此路径下：/Users/UserName/Library/Developer/Xcode/UserData/CodeSnippets ，此路径下的文件都是自定义的代码块文件
+### （1）存储位置
+     自定义的代码块保存在此路径下：/Users/UserName/Library/Developer/Xcode/UserData/CodeSnippets 
 
 ![](https://github.com/qiuyubude/CoreSnippet/blob/master/Image/image5.png?raw=true)
 
-2. 当升级Xcode或者更换环境的时候可以先备份一下该路径下的自定义代码块文件，然后拷贝到新的环境同一目录下即可
+### （2）文件通用
+    可将该路径下的自定义代码块文件进行备份（我是上传至GitHub），然后当Xcode升级或者更换电脑时将文件拷贝到同一目录下即可
