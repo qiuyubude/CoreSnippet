@@ -44,3 +44,5 @@ Completion Scopes：作用范围，一般写在正确的位置拖动即可，Xco
 
 ### （2）文件通用
     可将该路径下的自定义代码块文件进行备份（我是上传至GitHub），然后当Xcode升级或者更换电脑时将文件拷贝到同一目录下即可
+    
+GitHub地址:https://github.com/qiuyubude/CoreSnippet
