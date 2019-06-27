@@ -1,8 +1,6 @@
 
 # 代码块的创建
-简书地址：https://www.jianshu.com/p/771a8cc91f2b
-    
-GitHub地址:https://github.com/qiuyubude/CoreSnippet
+
 
  对代码块的熟练使用可以减少开发时间，并且不需要每个页面每个类都去重写创建方法。
  
@@ -64,3 +62,6 @@ Completion Scopes：作用范围，一般写在正确的位置拖动即可，Xco
 ### （2）文件通用
     可将该路径下的自定义代码块文件进行备份（我是上传至GitHub），然后当Xcode升级或者更换电脑时将文件拷贝到同一目录下即可
     
+  简书地址：https://www.jianshu.com/p/fe6ca1e74c1b
+    
+GitHub地址:https://github.com/qiuyubude/CoreSnippet
